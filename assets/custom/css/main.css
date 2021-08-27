@@ -1,6 +1,19 @@
 /* here we will code css */
 
 
+/* 
+    (Grid System)
+    =======================================
+    xs -> just on (bootstrap3) -> removed
+    sm -> 576
+    md -> 768
+    lg -> 992
+    xl -> 1200
+
+    col-lg-3, col-sm-2, col-xl-4
+*/
+
+
 /* Small devices (landscape phones, 576px and up) */
 
 @media (min-width: 576px) {}
